@@ -2,6 +2,9 @@
 
 A Python package for cleaning and summarizing weather data.
 
+## CI badge
+[![ci](https://github.com/QMSS-G5072-2026/weather_jia_ally/actions/workflows/ci.yml/badge.svg)](https://github.com/QMSS-G5072-2026/weather_jia_ally/actions/workflows/ci.yml)
+
 ## Installation
 
 ```bash
